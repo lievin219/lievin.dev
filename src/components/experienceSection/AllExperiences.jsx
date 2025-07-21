@@ -5,9 +5,9 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const experiences = [
   {
-    job: "Front-End Developer",
-    company: "Alex Apps",
-    date: "2022 - Present",
+    job: "FULL-STACK Developer",
+    company: "The-GYM",
+    date: "2024 - Present",
     responsibilities: [
       "Implementing reusable components.",
       "Participating in large scale application.",
@@ -17,8 +17,8 @@ const experiences = [
   },
   {
     job: "Course Instructor",
-    company: "Nucamp",
-    date: "2023 - Present",
+    company: "TECH-TONIC-AFRICA",
+    date: "2024 - Present",
     responsibilities: [
       "Explaining and facilitating web development concepts.",
       "Help students with their assignments and grade them weekly.",
@@ -26,15 +26,16 @@ const experiences = [
     ],
   },
   {
-    job: "Course Instructor",
-    company: "Sprints",
-    date: "2024 - Present",
+    job: "Software developer trainee",
+    company: "Andela techinical leadership program",
+    date: " November 2023 - 2024",
     responsibilities: [
-      "Teaching JavaScript, React and TailwindCSS.",
-      "Participating in preparing course materials.",
-      "Helping students through their way in learning web development technologies.",
+      "Utilized the opportunity to apply the latest software development methodologies",
+  "Demonstrated strong communication skills and  problem solving skills",
+     
     ],
   },
+  
 ];
 
 const AllExperiences = () => {
