@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
 import { PiHexagonThin } from "react-icons/pi";
+import picture from '../../../public/images/lievinImage.jpg'
 
 const HeroPic = () => {
   return (
@@ -12,7 +13,7 @@ const HeroPic = () => {
       className=" h-full flex items-center justify-center "
     >
       <img
-        src="../../public/images/lievin.jpg"
+      src={picture}
         alt="Lievin Gakiza"
         className="max-h-[450px] w-auto"
       />
