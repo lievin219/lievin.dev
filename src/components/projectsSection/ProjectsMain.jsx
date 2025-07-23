@@ -2,34 +2,37 @@ import ProjectsText from "./ProjectsText";
 import SingleProject from "./SingleProject";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
+import valueImage from '../../../public/images/imagee1.jpg'
+import valueImagee from '../../../public/images/imagee2.jpg'
+
 
 const projects = [
   {
     name: "E-COMMERCE-PLATFORM",
     year: "Mar2024",
     align: "right",
-    image: "../../public/images/website-img-1.jpg",
-    link: "#",
+    image: valueImage,
+    link: "https://lievin219.github.io/Ecommerce-MERN-PROJECT/",
   },
   {
     name: "MOVIE-API",
     year: "Sept2024",
     align: "left",
-    image: "../../public/images/website-img-2.webp",
-    link: "#",
+    image:valueImagee,
+    link: "https://lievin219.github.io/react-project-course/",
   },
   {
     name: "PROLIFIC-MIND-PROJECT",
     year: "Dec2024",
     align: "right",
-    image: "../../public/images/website-img-3.jpg",
-    link: "#",
+    image:"../../../public/images/website-img-1.jpg",
+    link: "https://lievin219.github.io/Prolific_Minded/",
   },
   {
     name: "Ibuye-developers",
     year: "March2025",
     align: "left",
-    image: "../../public/images/website-img-3.jpg",
+    image: "../../../public/images/website-img-1.jpg",
     link: "#",
   },
   
@@ -55,6 +58,7 @@ const ProjectsMain = () => {
               year={project.year}
               align={project.align}
               image={project.image}
+              link={project.link}
             />
           );
         })}
