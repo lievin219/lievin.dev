@@ -5,7 +5,7 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const experiences = [
   {
-    job: "FULL-STACK Developer",
+    job: "FULLSTACK-WEBDeveloper Course-Instructor",
     company: "The-GYM",
     date: "2024 - Present",
     responsibilities: [
@@ -17,8 +17,8 @@ const experiences = [
   },
   {
     job: "Course Instructor",
-    company: "TECH-TONIC-AFRICA",
-    date: "2024 - Present",
+    company: "TECH-TONIC-AFRICA (Excella-high-school)",
+    date: "2023 - Present",
     responsibilities: [
       "Explaining and facilitating web development concepts.",
       "Help students with their assignments and grade them weekly.",
