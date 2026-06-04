@@ -7,6 +7,7 @@ import valueImagee from '../../../public/images/imagee2.jpg'
 import rav4 from '../../../public/images/rav4.jpg'
 import prolific from '../../../public/images/prolific.jpg'
 import linktravel from '../../../public/images/image.png'
+import ibuye from "../../../public/images//ibuye.png"
 
 
 const projects = [
@@ -17,17 +18,26 @@ const projects = [
     image: linktravel,
     link: "https://www.linksvoyage.com/",
   },
+
+   {
+    name: "Ibuye developers",
+    year: "Mar2026",
+    align: "left",
+    image: ibuye,
+    link: "https://www.linksvoyage.com/",
+  },
+
   {
     name: "EuroAsia Rwanda car rental",
     year: "Feb2026",
-    align: "left",
+    align: "right",
     image: rav4,
     link: "https://lievin219.github.io/car-rental-business",
   },
   {
     name: "PROLIFIC-MIND-PROJECT",
     year: "Dec2024",
-    align: "right",
+    align: "left",
     image:prolific,
     link: "https://github.com/lievin219/backend_prolific/",
   },
