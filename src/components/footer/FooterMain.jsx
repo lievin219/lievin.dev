@@ -245,7 +245,7 @@ export default function FooterMain() {
             ))}
             <li>
               <a
-                href="mailto:lievin@example.com"
+                href="mailto:gakizalievin219@gmail.com"
                 className="px-3 py-1.5 text-sm text-lightGrey/60 rounded-lg border border-transparent hover:border-white/10 hover:bg-white/5 hover:text-lightGrey transition-all duration-200"
               >
                 Contact ↗
