@@ -121,7 +121,8 @@ const HeroMusic = () => {
         {/* Text */}
         <div className="flex flex-col leading-tight">
           <span className="text-white text-xs font-semibold tracking-wide">
-            ✦ 🎵 Gospel message related to the day i was saved— click play to listen
+            ✦ 🎵 this Gospel music is A reflection on the selfless love of Jesus Christ,
+who gave up the glory of heaven to save undeserving sinners like me .
           </span>
           <span className="text-gray-400 text-[10px]">
             {playing ? "Now playing..." : "Paused"}
