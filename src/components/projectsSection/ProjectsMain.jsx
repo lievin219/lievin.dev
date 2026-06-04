@@ -6,9 +6,31 @@ import valueImage from '../../../public/images/imagee1.jpg'
 import valueImagee from '../../../public/images/imagee2.jpg'
 import rav4 from '../../../public/images/rav4.jpg'
 import prolific from '../../../public/images/prolific.jpg'
+import linktravel from '../../../public/images/image.png'
 
 
 const projects = [
+  {
+    name: "Link Travel Agency",
+    year: "Mar2026",
+    align: "right",
+    image: linktravel,
+    link: "https://www.linksvoyage.com/",
+  },
+  {
+    name: "EuroAsia Rwanda car rental",
+    year: "Feb2026",
+    align: "left",
+    image: rav4,
+    link: "https://lievin219.github.io/car-rental-business",
+  },
+  {
+    name: "PROLIFIC-MIND-PROJECT",
+    year: "Dec2024",
+    align: "right",
+    image:prolific,
+    link: "https://github.com/lievin219/backend_prolific/",
+  },
   {
     name: "E-COMMERCE-PLATFORM",
     year: "Mar2024",
@@ -23,20 +45,8 @@ const projects = [
     image:valueImagee,
     link: "https://lievin219.github.io/react-project-course/",
   },
-  {
-    name: "PROLIFIC-MIND-PROJECT",
-    year: "Dec2024",
-    align: "right",
-    image:prolific,
-    link: "https://github.com/lievin219/backend_prolific/",
-  },
-  {
-    name: "EuroAsia Rwanda car rental",
-    year: "Feb2026",
-    align: "left",
-    image: rav4,
-    link: "https://lievin219.github.io/car-rental-business",
-  },
+  
+  
   
 ];
 
