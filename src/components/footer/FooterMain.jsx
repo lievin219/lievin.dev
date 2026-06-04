@@ -259,7 +259,7 @@ export default function FooterMain() {
               { href: "https://github.com/", icon: "GH", title: "GitHub" },
               { href: "https://linkedin.com/", icon: "in", title: "LinkedIn" },
               { href: "https://twitter.com/", icon: "𝕏", title: "Twitter" },
-              { href: "mailto:lievin@example.com", icon: "✉", title: "Email" },
+              { href: "mailto:gakizalievin219@gmail.com", icon: "✉", title: "Email" },
             ].map((s) => (
               <a
                 key={s.title}
