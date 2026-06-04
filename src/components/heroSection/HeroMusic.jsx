@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Play, Pause, Volume2, VolumeX } from "lucide-react";
+import worshipmusic from "../../../public/audio/worship.mp3"
 
 const HeroMusic = () => {
   const audioRef = useRef(null);
@@ -53,7 +54,7 @@ const HeroMusic = () => {
       transition={{ delay: 1.4, duration: 0.8 }}
       className="flex items-center gap-3 md:self-start sm:self-center mt-2 relative"
     >
-      <audio ref={audioRef} src="../../../public/audio/worship.mp3" loop />
+      <audio ref={audioRef} src={worshipmusic} loop />
 
       {/* Tooltip that auto-hides */}
       <AnimatePresence>
@@ -120,7 +121,7 @@ const HeroMusic = () => {
         {/* Text */}
         <div className="flex flex-col leading-tight">
           <span className="text-white text-xs font-semibold tracking-wide">
-            ✦ Gospel Music
+            ✦ 🎵 Gospel message related to the day i was saved— click play to listen
           </span>
           <span className="text-gray-400 text-[10px]">
             {playing ? "Now playing..." : "Paused"}
