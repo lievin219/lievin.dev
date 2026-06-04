@@ -217,6 +217,7 @@
 // export default HeroText;
 
 import { motion } from "framer-motion";
+import HeroMusic from "./HeroMusic";
 import { fadeIn } from "../../framerMotion/variants";
 import { Code2, Sparkles, ArrowRight, Download, Github, Linkedin, Mail } from "lucide-react";
 import { Link } from "react-scroll";
@@ -484,6 +485,7 @@ const HeroText = () => {
           Available for freelance projects
         </span>
       </motion.div>
+      <HeroMusic/>
     </div>
   );
 };
