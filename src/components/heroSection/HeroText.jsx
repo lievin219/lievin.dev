@@ -368,19 +368,23 @@ const HeroText = () => {
       </motion.div>
 
       {/* Description */}
-      <motion.p
-        variants={fadeIn("up", 0.4)}
-        initial="hidden"
-        whileInView="show"
-        viewport={{ once: false, amount: 0 }}
-        className="text-lg text-gray-300 leading-relaxed max-w-2xl md:mx-0 sm:mx-auto"
-      >
-        Crafting exceptional digital experiences with{" "}
-        <span className="text-cyan font-semibold">modern web technologies</span>.
-        Empowering the next generation of developers through{" "}
-        <span className="text-orange font-semibold">hands-on mentorship</span> and
-        real-world projects.
-      </motion.p>
+     <motion.p
+  variants={fadeIn("up", 0.4)}
+  initial="hidden"
+  whileInView="show"
+  viewport={{ once: false, amount: 0 }}
+  className="text-lg text-gray-300 leading-relaxed max-w-2xl md:mx-0 sm:mx-auto"
+>
+  Saved by grace, building for purpose.{" "}
+  <span className="text-cyan font-semibold">I write code</span> the same way I
+  worship — with everything I have. When I'm not pushing commits, you'll find me
+  strumming my{" "}
+  <span className="text-orange font-semibold">guitar</span>, losing myself in a
+  game of <span className="text-cyan font-semibold">FIFA</span>, or quietly on pulpet sharpening my soul{" "}
+  <span className="text-orange font-semibold">
+    Every line of code is an act of gratitude.
+  </span>
+</motion.p>
 
       {/* Stats Mini Cards */}
       <motion.div

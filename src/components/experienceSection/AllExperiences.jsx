@@ -90,8 +90,19 @@ const experiences = [
   ],
 },
 {
-  job: "Website Maintainer & Course Instructor",
+  job: "Software Engineer & Course Instructor",
   company: "Techtonic Africa",
+  date: "2024 - 2025",
+  responsibilities: [
+    "Maintaining and updating company websites and digital platforms.",
+    "Teaching web development concepts and practical coding skills.",
+    "Supporting students with assignments, projects, and weekly evaluations.",
+    "Collaborating with teams to improve learning resources and platform performance.",
+  ],
+},
+{
+  job: "Software Engineer",
+  company: "The Gym",
   date: "2024 - 2025",
   responsibilities: [
     "Maintaining and updating company websites and digital platforms.",
