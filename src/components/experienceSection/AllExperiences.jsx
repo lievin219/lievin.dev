@@ -83,10 +83,10 @@ const experiences = [
   company: "Andela Technical Leadership Program",
   date: "2023 - 2024",
   responsibilities: [
-    "Participated in code reviews and collaborated with cross-functional teams to deliver high quality software solutions.",
-    "Contributed to project planning, requirement analysis, and software testing",
-    "Conducted workshops on Git, GitHub, API integration, and modern development workflows.",
-
+    "Participated in an intensive technical leadership development program focused on software engineering best practices and team collaboration.",
+    "Delivered full-stack features on team projects using Node.js, Express.js, and PostgreSQL within agile sprintcycles.",
+    "Applied Agile and Scrum methodologies in project planning, execution, and delivery.",
+    "Practiced pair programming and test-driven development, improving team velocity and reducing bugrates.",
   ],
 },
 {
@@ -105,10 +105,10 @@ const experiences = [
   company: "The Gym || first intensive coding  program in rwanda",
   date: "2024 - 2025",
   responsibilities: [
-    "Maintaining and updating company websites and digital platforms.",
-    "Teaching web development concepts and practical coding skills.",
-    "Supporting students with assignments, projects, and weekly evaluations.",
-    "Collaborating with teams to improve learning resources and platform performance.",
+    "Participated in code reviews and collaborated with cross-functional teams to deliver high quality software solutions.",
+    "Contributed to project planning, requirement analysis, and software testing",
+    "Conducted workshops on Git, GitHub, API integration, and modern development workflows.",
+
   ],
 },
 
