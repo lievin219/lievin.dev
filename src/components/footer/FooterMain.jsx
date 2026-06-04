@@ -210,11 +210,11 @@ export default function FooterMain() {
         {/* GIT COMMIT ROW */}
         <div className="flex flex-wrap items-center gap-2 text-xs text-lightGrey/50 font-mono mb-5">
           <span>🔀</span>
-          <span>Last commit</span>
+          <span></span>
           <span className="px-2 py-0.5 rounded bg-white/5 border border-white/10 text-lightGrey/70">
-            a3f1b9c
+           
           </span>
-          <span>feat: update footer component ✨</span>
+          <span></span>
           <span className="ml-2 flex items-center gap-1">
             Uptime:
             <span className="flex gap-0.5 ml-1">
@@ -278,7 +278,7 @@ export default function FooterMain() {
         {/* BOTTOM BAR — copyright + mood picker */}
         <div className="flex flex-wrap items-center justify-between gap-3 pt-4 border-t border-white/10">
           <p className="text-xs text-lightBrown">
-            © 2024 LIEVIN GAKIZA · All Rights Reserved.
+          
           </p>
 
           {/* Mood picker */}
