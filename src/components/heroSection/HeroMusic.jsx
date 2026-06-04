@@ -65,7 +65,7 @@ const HeroMusic = () => {
             exit={{ opacity: 0, y: 5 }}
             className="absolute -top-10 left-0 bg-gray-900 border border-cyan/30 text-cyan text-[11px] px-3 py-1.5 rounded-lg whitespace-nowrap"
           >
-            🎵 Gospel message related to the day i was saved— click play to listen
+            
             <div className="absolute -bottom-1.5 left-4 w-3 h-3 bg-gray-900 border-r border-b border-cyan/30 rotate-45" />
           </motion.div>
         )}

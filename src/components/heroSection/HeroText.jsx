@@ -380,7 +380,7 @@ const HeroText = () => {
   worship — with everything I have. When I'm not pushing commits, you'll find me
   strumming my{" "}
   <span className="text-orange font-semibold">guitar</span>, losing myself in a
-  game of <span className="text-cyan font-semibold">FIFA</span>, or quietly on pulpet sharpening my soul{" "}
+  game of <span className="text-cyan font-semibold">FIFA</span>, or quietly on purpit sharpening my soul{" "}
   <span className="text-orange font-semibold">
     Every line of code is an act of gratitude.
   </span>
