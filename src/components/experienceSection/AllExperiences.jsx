@@ -83,10 +83,10 @@ const experiences = [
   company: "Andela Technical Leadership Program",
   date: "2023 - 2024",
   responsibilities: [
-    "Applied modern software development methodologies in team projects.",
-    "Worked with technologies including Node.js and PostgreSQL.",
-    "Strengthened problem-solving, teamwork, and communication skills.",
-    "Participated in collaborative development and technical leadership activities.",
+    "Participated in code reviews and collaborated with cross-functional teams to deliver high quality software solutions.",
+    "Contributed to project planning, requirement analysis, and software testing",
+    "Conducted workshops on Git, GitHub, API integration, and modern development workflows.",
+
   ],
 },
 {
@@ -102,7 +102,7 @@ const experiences = [
 },
 {
   job: "Software Engineer",
-  company: "The Gym",
+  company: "The Gym || first intensive coding  program in rwanda",
   date: "2024 - 2025",
   responsibilities: [
     "Maintaining and updating company websites and digital platforms.",
