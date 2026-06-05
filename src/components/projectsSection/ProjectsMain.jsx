@@ -24,7 +24,7 @@ const projects = [
     year: "Mar2026",
     align: "left",
     image: ibuye,
-    link: "https://www.linksvoyage.com/",
+    link: "https://ibuye-developers.com/",
   },
 
   {
