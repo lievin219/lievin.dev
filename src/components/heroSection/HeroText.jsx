@@ -229,6 +229,10 @@ const HeroText = () => {
     { icon: <Mail className="w-5 h-5" />, href: "#", label: "Email" },
   ];
 
+   function Codes(){
+ console.log('Saved by grace')
+   }
+
   return (
     <div className="flex flex-col gap-6 h-full justify-center md:text-left sm:text-center relative">
       {/* Animated Background Elements */}
@@ -377,8 +381,8 @@ const HeroText = () => {
 >
   Saved by grace, building for purpose.{" "}
   <span className="text-cyan font-semibold">I write code</span> the same way I
-  worship — with everything I have. When I'm not pushing commits, you'll find me
-  strumming my{" "}
+  worship with everything I have. When I'm not pushing commits, you'll find me
+  strumming my 
   <span className="text-orange font-semibold">guitar</span>, losing myself in a
   game of <span className="text-cyan font-semibold">FIFA</span>, or quietly on purpit sharpening my soul{" "}
   <span className="text-orange font-semibold">
