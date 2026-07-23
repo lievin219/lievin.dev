@@ -126,6 +126,18 @@ const experiences = [
     "Creating and managing course content for web development programs.",
   ],
 },
+{
+  job: "Product Designer & Platform Lead ",
+  company: "WEDTC",
+  date: "2025 - Present",
+  responsibilities: [
+    
+    "Working as a software engineer on Learnlife Rwanda's product, building and shipping features across different Technologies",
+"Writing, testing, and debugging code to fix issues .",
+"Collaborating with the team on technical decisions, code reviews",
+"Maintaining and improving existing code ",
+"Solving real technical problems from small bugs to bigger performance issues.",]
+},
 
   
 ];
