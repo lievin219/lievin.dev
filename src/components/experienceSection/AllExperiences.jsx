@@ -129,7 +129,7 @@ const experiences = [
 {
   job: "Software Engineer",
   company: "LearnLife",
-  date: "2025 - Present",
+  date: " June2026 - Present",
   responsibilities: [
     
     "Working as a software engineer on Learnlife's product, building and shipping features across different Technologies",
