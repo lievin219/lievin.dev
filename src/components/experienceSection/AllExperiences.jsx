@@ -127,12 +127,12 @@ const experiences = [
   ],
 },
 {
-  job: "Product Designer & Platform Lead ",
-  company: "WEDTC",
+  job: "Software Engineer",
+  company: "LearnLife",
   date: "2025 - Present",
   responsibilities: [
     
-    "Working as a software engineer on Learnlife Rwanda's product, building and shipping features across different Technologies",
+    "Working as a software engineer on Learnlife's product, building and shipping features across different Technologies",
 "Writing, testing, and debugging code to fix issues .",
 "Collaborating with the team on technical decisions, code reviews",
 "Maintaining and improving existing code ",
