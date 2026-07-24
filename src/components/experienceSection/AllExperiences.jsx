@@ -115,7 +115,7 @@ const experiences = [
  {
   job: "Product Designer & Platform Lead ",
   company: "WEDTC",
-  date: "2025 - Present",
+  date: "2025 - May2026",
   responsibilities: [
     
     "Teaching full stack web development concepts to students.",
